@@ -1,4 +1,4 @@
-# Lest's start
+# Metasploitable 2
 
 ## Configuration
 
