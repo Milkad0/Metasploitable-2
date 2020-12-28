@@ -6,31 +6,31 @@
 
 - For this pentest audit we are going to use this Metasploit instance :
 
-https://www.hamon.tk/Metasploitable2.7z
+    https://www.hamon.tk/Metasploitable2.7z
 
-With this instance you don't have the passwords to access the server.
+    With this instance you don't have the passwords to access the server.
 
 - But you can also use these if the link is down :
 
-https://information.rapid7.com/metasploitable-download.html
+    https://information.rapid7.com/metasploitable-download.html
 
-https://sourceforge.net/projects/metasploitable/
+    https://sourceforge.net/projects/metasploitable/
 
 ### Step 2 : Virtualization product
 
-Unzip the file
+- Unzip the file
 
-Use VMWare or VirtualBox to add the VM
+- Use VMWare or VirtualBox to add the VM
 
 ### Step 3 : Virtual configuration
 
-Put the machine under the same subnet as your attack machine
+- Put the machine under the same subnet as your attack machine
 
 The IP of the Metasploitable 2 VM is 192.168.10.100/24
 
 ### Step 4 : Start
 
-Start both VM
+- Start both VM
 
 ### Advise
 
