@@ -6,15 +6,13 @@
 
 - For this pentest audit we are going to use this Metasploit instance :
 
-    https://www.hamon.tk/Metasploitable2.7z
-
-    With this instance you don't have the passwords to access the server.
-
-- But you can also use these if the link is down :
+   
 
     https://information.rapid7.com/metasploitable-download.html
 
     https://sourceforge.net/projects/metasploitable/
+    
+     P.S. : With the instance that I use, we don't have the passwords to access the server.
 
 ### Step 2 : Virtualization product
 
