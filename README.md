@@ -41,6 +41,17 @@ I recommand to use a Kali VM to process the attack, you can found some preconfig
 ## Let's hack
 
 ### Threat n°1 : Netcat bindshell – Metasploitable root shell – Port 1524
+
+A superuser shell is available on port 1524.
+
+![image](https://user-images.githubusercontent.com/44178372/114245936-b3c0d980-9991-11eb-9b8a-a7717ea3fdb4.png)
+
+We log in as root.
+
+Correction :
+
+Disable this port, as well as the shell if it is not needed.
+
 ### Threat n°2 : Backdoor FTP – vsftpd 2.3.4 – Port 21
 ### Threat n°3 : VNC – Port 5900
 ### Threat n°4 : Services « R » – Port 512/513/514
