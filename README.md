@@ -64,7 +64,7 @@ https://www.rapid7.com/db/modules/exploit/unix/ftp/vsftpd_234_backdoor/
 
 #### Operation and impact
 
-On utilise l’exploit présent sur Metasploit et on se connecte en tant que root.
+We use the exploit present on Metasploit and we log in as root.
 
 ![image](https://user-images.githubusercontent.com/44178372/114246273-7f015200-9992-11eb-972b-60d1e7b5b02c.png)
 
@@ -115,7 +115,7 @@ N/A
 #### Operation and impact
 ![image](https://user-images.githubusercontent.com/44178372/114246610-53329c00-9993-11eb-87ec-93df83c6b6ab.png)
 
-On monte un dossier local vers le serveur NFS de la machine cible.
+We mount a local folder to the NFS server of the target machine.
 
 ![image](https://user-images.githubusercontent.com/44178372/114246615-56c62300-9993-11eb-8b2d-cd0ee85988cc.png)
 
