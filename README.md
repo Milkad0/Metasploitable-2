@@ -40,20 +40,20 @@ I recommand to use a Kali VM to process the attack, you can found some preconfig
 
 ## Let's hack
 
-### Threat n°1
-### Threat n°2
-### Threat n°3
-### Threat n°4
-### Threat n°5
-### Threat n°6
-### Threat n°7
-### Threat n°8
-### Threat n°9
-### Threat n°10
-### Threat n°11
-### Threat n°12
-### Threat n°13
-### Threat n°14
-### Threat n°15
-### Threat n°16
+### Threat n°1 : Netcat bindshell – Metasploitable root shell – Port 1524
+### Threat n°2 : Backdoor FTP – vsftpd 2.3.4 – Port 21
+### Threat n°3 : VNC – Port 5900
+### Threat n°4 : Services « R » – Port 512/513/514
+### Threat n°5 : NFS – Port 2049
+### Threat n°6 : Backdoor IRC – UnrealIRCd – Port 6667
+### Threat n°7 : Netbios-ssn – Samba smbd 3.X – 4.X – Port 139/445
+### Threat n°8 : Java-rmi – Port 1099
+### Threat n°9 : MYSQL – Port 3306
+### Threat n°10 : Compte Msfadmin
+### Threat n°11 : Telnet – Port 23
+### Threat n°12 : SSH – Port 22
+### Threat n°13 : PostegreSQL – PostgreSQL DB 8.3.0 - 8.3.7 – Port 5432
+### Threat n°14 : HTTP – Port 80
+### Threat n°15 : Kernel version
+### Threat n°16 : SMTP – Port 25
 
